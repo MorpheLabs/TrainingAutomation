@@ -1,0 +1,1 @@
+{"virtualbox":{"/shared":{"guestpath":"/shared","hostpath":"/Users/vincent-ats/OneDrive - Morphe/Training/Node1/Shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/vincent-ats/OneDrive - Morphe/Training/Node1","disabled":false,"__vagrantfile":true}}}
